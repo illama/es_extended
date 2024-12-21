@@ -1,2 +1,1 @@
-# es_extended
- Ce script est une version avancée du core ESX, intégrant des améliorations pour optimiser les performances et renforcer la sécurité. Il garantit une compatibilité avec les dernières versions des artefacts FiveM et les fonctionnalités d'ESX, prenant en charge les inventaires personnalisés et la gestion des emplois multiples. Les ajouts incluent des événements réseau sécurisés, des mécanismes de chargement des joueurs optimisés et des commandes administratives. Cette version permet également de gérer dynamiquement les effectifs pour les emplois principaux et secondaires.
+Le es_extended d'origine mais avec le support des doubles métiers, job et job2.
